@@ -1,0 +1,174 @@
+{
+  "data": [
+    {
+      "ourQualities": [
+        {
+          "id": 1,
+          "image": "./quality_food.svg",
+          "title": "QUALITY FOOD",
+          "description": "At The Fork & Flame, we prioritize fresh, locally-sourced ingredients to deliver exceptional taste and nutrition in every bite."
+        },
+        {
+          "id": 2,
+          "image": "./super_taste.svg",
+          "title": "EXQUISITE FLAVORS",
+          "description": "Our chefs blend traditional spices and innovative techniques to craft unforgettable dishes bursting with flavor."
+        },
+        {
+          "id": 3,
+          "image": "./fast_delivery.svg",
+          "title": "FAST DELIVERY",
+          "description": "Enjoy your favorite meals delivered hot and fresh, right to your doorstep, with our reliable and speedy service."
+        }
+      ],
+      "dishes": [
+        {
+          "id": 1,
+          "image": "./dinner1.jpeg",
+          "title": "Roasted Lamb Rump",
+          "category": "Dinner"
+        },
+        {
+          "id": 2,
+          "image": "./dinner2.png",
+          "title": "Citrus Cured Salmon",
+          "category": "Dinner"
+        },
+        {
+          "id": 3,
+          "image": "./breakfast1.png",
+          "title": "Pan Seared Sea Bass",
+          "category": "Breakfast"
+        },
+        {
+          "id": 4,
+          "image": "./dinner3.png",
+          "title": "Stuffed Strawberry",
+          "category": "Dinner"
+        },
+        {
+          "id": 5,
+          "image": "./lunch1.png",
+          "title": "Beef Burger Meal",
+          "category": "Lunch"
+        },
+        {
+          "id": 6,
+          "image": "./dinner4.png",
+          "title": "Mussels Soup",
+          "category": "Dinner"
+        },
+        {
+          "id": 7,
+          "image": "./dinner5.png",
+          "title": "Italian Spaghetti",
+          "category": "Dinner"
+        },
+        {
+          "id": 8,
+          "image": "./dinner6.png",
+          "title": "Grilled Fish",
+          "category": "Dinner"
+        }
+      ],
+      "team": [
+        {
+          "id": 1,
+          "image": "./team_member_1.png",
+          "name": "Johnathan Tyler",
+          "designation": "Founder & Head Chef"
+        },
+        {
+          "id": 2,
+          "image": "./team_member_2.png",
+          "name": "Wade Warren",
+          "designation": "Sous Chef"
+        },
+        {
+          "id": 3,
+          "image": "./team_member_3.png",
+          "name": "Jhon Doe",
+          "designation": "Fast Food Chef"
+        },
+        {
+          "id": 4,
+          "image": "./team_member_4.png",
+          "name": "Alex Coal",
+          "designation": "Senior Chef"
+        }
+      ],
+      "testimonials": [
+        {
+          "id": 1,
+          "image": "./review1.png",
+          "description": "The Fork & Flame offers an amazing dining experience! Delicious food, cozy ambiance, and friendly staff — highly recommend!",
+          "rating": 4,
+          "userName": "Jane Cooper"
+        },
+        {
+          "id": 2,
+          "image": "./review2.png",
+          "description": "Outstanding flavors and impeccable service. The dishes are always fresh and full of character. A favorite spot for sure.",
+          "rating": 4.5,
+          "userName": "Esther Howard"
+        },
+        {
+          "id": 3,
+          "image": "./review3.png",
+          "description": "A culinary gem! The chef’s passion shines through every dish. Great atmosphere and attention to detail.",
+          "rating": 5,
+          "userName": "Guy Hawkins"
+        }
+      ],
+      "who_we_are": [
+        {
+          "id": 1,
+          "number": "14",
+          "title": "Restaurants"
+        },
+        {
+          "id": 2,
+          "number": "20",
+          "title": "Chefs in Kitchen"
+        },
+        {
+          "id": 3,
+          "number": "08",
+          "title": "Years of Experience"
+        },
+        {
+          "id": 4,
+          "number": "200",
+          "title": "Unique Dishes"
+        }
+      ],
+      "navbarLinks": [
+        {
+          "id": 1,
+          "title": "HOME",
+          "link": "heroSection"
+        },
+        {
+          "id": 2,
+          "title": "ABOUT US",
+          "link": "about"
+        },
+        {
+          "id": 3,
+          "title": "SERVICES",
+          "link": "qualities"
+        },
+        {
+          "id": 4,
+          "title": "TEAM",
+          "link": "team"
+        },
+        {
+          "id": 5,
+          "title": "RESERVATION",
+          "link": "reservation"
+        }
+      ]
+    }
+  ]
+}
