@@ -3,7 +3,7 @@
 A full-stack web application for managing restaurant table reservations built with the MERN stack (MongoDB, Express.js, React.js, Node.js).
 
 ## ✨ Features
-- 🔐 User authentication and authorization
+- 🔐 User authentication and authorization 
 - 📅 Table reservation management
 - 📊 Admin dashboard
 - 📱 Responsive design
