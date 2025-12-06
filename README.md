@@ -8,7 +8,7 @@ A full-stack web application for managing restaurant table reservations built wi
 - 📊 Admin dashboard
 - 📱 Responsive design 
 - 🔄 Real-time updates 
-- 📧 Email notifications  
+- 📧 Email notifications   
 - 📊 Analytics and reporting
 
 ## 🛠️ Tech Stack 
