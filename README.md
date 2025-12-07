@@ -10,7 +10,7 @@ A full-stack web application for managing restaurant table reservations built wi
 - 🔄 Real-time updates  
 - 📧 Email notifications   
 - 📊 Analytics and reporting
-  
+   
 ## 🛠️ Tech Stack 
 - **Frontend**: React.js, Vite, TailwindCSS
 - **Backend**: Node.js, Express.js
