@@ -6,7 +6,7 @@ A full-stack web application for managing restaurant table reservations built wi
 - 🔐 User authentication and authorization  
 - 📅 Table reservation management
 - 📊 Admin dashboard 
-- 📱 Responsive design   
+- 📱 Responsive design    
 - 🔄 Real-time updates     
 - 📧 Email notifications    
 - 📊 Analytics and reporting
