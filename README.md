@@ -21,58 +21,57 @@ A full-stack web application for managing restaurant table reservations built wi
 
 ## 📁 Project Structure
 ```
-restaurant-reservation-mern/
-├── 📂 frontend/
-│   ├── 📂 src/
-│   │   ├── 📂 components/
-│   │   │   ├── 📄 About.jsx
-│   │   │   ├── 📄 Footer.jsx
-│   │   │   ├── 📄 HeroSection.jsx
-│   │   │   ├── 📄 Menu.jsx
-│   │   │   ├── 📄 Navbar.jsx
-│   │   │   ├── 📄 Qualities.jsx
-│   │   │   ├── 📄 Reservation.jsx
-│   │   │   ├── 📄 Team.jsx
-│   │   │   └── 📄 WhoAreWe.jsx
-│   │   ├── 📂 Pages/
-│   │   │   ├── �� Home/
-│   │   │   │   └── 📄 Home.jsx
-│   │   │   ├── 📂 NotFound/
-│   │   │   │   └── 📄 NotFound.jsx
-│   │   │   └── 📂 Success/
-│   │   │       └── 📄 Success.jsx
-│   │   ├── 📄 App.jsx
-│   │   ├── 📄 App.css
-│   │   ├── 📄 main.jsx
-│   │   └── 📄 restApi.json
-│   ├── 📂 public/
-│   ├── 📄 package.json
-│   ├── 📄 vite.config.js
-│   └── 📄 index.html
-│
-├── 📂 backend/
-│   ├── 📂 config/
-│   │   └── 📄 db.js
-│   ├── 📂 controllers/
-│   │   ├── 📄 authController.js
-│   │   ├── 📄 reservationController.js
-│   │   └── 📄 userController.js
-│   ├── 📂 models/
-│   │   ├── 📄 User.js
-│   │   └── 📄 Reservation.js
-│   ├── 📂 routes/
-│   │   ├── 📄 auth.js
-│   │   ├── 📄 reservations.js
-│   │   └── 📄 users.js
-│   ├── 📂 middlewares/
-│   │   ├── 📄 auth.js
-│   │   └── 📄 error.js
-│   ├── 📂 database/
-│   │   └── 📄 connection.js
-│   ├── 📄 app.js
-│   └── 📄 server.js
-│
-└── 📄 .gitignore
+Directory structure:
+└── hariharans24-restaurant-reservation-mern/
+    ├── README.md
+    ├── LICENSE
+    ├── backend/
+    │   ├── app.js
+    │   ├── package-lock.json
+    │   ├── package.json
+    │   ├── RESERVATIONS.reservations.json
+    │   ├── server.js
+    │   ├── config/
+    │   │   └── config.env
+    │   ├── controller/
+    │   │   └── reservation.js
+    │   ├── database/
+    │   │   └── dbConnection.js
+    │   ├── middlewares/
+    │   │   └── error.js
+    │   ├── models/
+    │   │   └── reservation.js
+    │   └── routes/
+    │       └── reservationRoute.js
+    └── frontend/
+        ├── README.md
+        ├── index.html
+        ├── package-lock.json
+        ├── package.json
+        ├── vite.config.js
+        ├── public/
+        └── src/
+            ├── App.css
+            ├── App.jsx
+            ├── main.jsx
+            ├── restApi.json
+            ├── components/
+            │   ├── About.jsx
+            │   ├── Footer.jsx
+            │   ├── HeroSection.jsx
+            │   ├── Menu.jsx
+            │   ├── Navbar.jsx
+            │   ├── Qualities.jsx
+            │   ├── Reservation.jsx
+            │   ├── Team.jsx
+            │   └── WhoAreWe.jsx
+            └── Pages/
+                ├── Home/
+                │   └── Home.jsx
+                ├── NotFound/
+                │   └── NotFound.jsx
+                └── Success/
+                    └── Success.jsx
 ```
 
 ## 🚀 Getting Started
